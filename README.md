@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Atualmente trabalho na parte de suporte em TI, mas estou em busca de novas oportunidades na área de desenvolvimento software.</dd>
+<dd>Atualmente trabalho na parte de suporte em TI, mas estou em busca de novas oportunidades na área de desenvolvimento de software.</dd>
 
 <br />
 

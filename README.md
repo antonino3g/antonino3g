@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 
+<br />
+
 <p align='left'>
   <a href="https://www.linkedin.com/in/antoninopraxedes" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoninopraxedes"/></a>
   <a href="https://github.com/apfjunior" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/apfjunior"/></a>

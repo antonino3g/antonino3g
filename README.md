@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 <dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
-<dd>SQL, C, Java, ShellScript, Python, HTML5, CSS3 e JavaScript.</dd>
+<dd>SQL, C, Java, ShellScript, Python, HTML5, CSS3, Typescript e JavaScript.</dd>
 
 <br />
 

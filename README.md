@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<p align='left'>
-  <a href="https://www.linkedin.com/in/antoninopraxedes" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoninopraxedes"/></a>
-  <a href="mailto:antonino.praxedes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0078D4?style=square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com"/></a>
-  <a href="https://t.me/antoninopraxedes" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:antonino.praxedes@gmail.com"/></a>
-  <a href="https://github.com/apfjunior" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/apfjunior"/></a>
-</p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antoninopraxedes)](https://www.linkedin.com/in/antoninopraxedes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](mailto:antonino.praxedes@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](https://t.me/antoninopraxedes)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/apfjunior)](https://github.com/apfjunior)

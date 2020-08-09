@@ -1,4 +1,4 @@
-<h3 align='center'>Hello World! :grin: </h3>
+<h3 align='center'>Hello World! </h3>
 
 <!--
 **apfjunior/apfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

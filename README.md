@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 <dt><strong>🌱 O que você estuda atualmente?</strong></dt>
-<dd>Estou estudando tecnologias para desenvolvimento Web/Mobile com ReactJS e React Native. Construção de API com Node.js (e outros projetos pessoais pequenos que estão disponíveis aqui no GitHub).</dd>
+<dd>Estou estudando tecnologias para desenvolvimento Web/Mobile com ReactJS e React Native. Construção de API com Node.js (e outros projetos pessoais que estão disponíveis aqui no GitHub).</dd>
 
 <br />
 

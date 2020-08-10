@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 
 <br />
 
-<dt><strong>⚡ Quais linguagens você conhece?</strong></dt>
-<dd>SQL, C, Java, ShellScript, Python, Typescript e JavaScript.</dd>
-
-<br />
-
 <dt><strong>💬 Como posso te contatar?</strong></dt>
 
 <br />

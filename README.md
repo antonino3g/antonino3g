@@ -1,4 +1,4 @@
-<h3 align='center'>Hello World! </h3>
+<h3 align='center'>Hello World! :earth_americas: 👨‍💻  </h3>
 
 <!--
 **apfjunior/apfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/apfjunior/apfjunior"></a>
+</p>
+-->
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antoninopraxedes)](https://www.linkedin.com/in/antoninopraxedes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](mailto:antonino.praxedes@gmail.com)

@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Atualmente trabalho na parte de suporte em TI, mas estou em busca de novas oportunidades na área de desenvolvimento de software.</dd>
+<dd>Atualmente trabalho na parte de suporte em TI, mas estou em busca de novos desafios na área de desenvolvimento de software.</dd>
 
 <br />
 

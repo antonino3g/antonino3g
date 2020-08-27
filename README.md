@@ -16,17 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<dt><strong>🔭 Você está trabalhando?</strong></dt>
-<dd>Atualmente trabalho na parte de suporte em TI, mas estou em busca de novos desafios na área de desenvolvimento de software.</dd>
-
-<br />
-
-<dt><strong>🌱 O que você estuda atualmente?</strong></dt>
-<dd>Estou estudando tecnologias para desenvolvimento Web/Mobile com ReactJS e React Native. Construção de API com Node.js (e outros projetos pessoais que estão disponíveis aqui no GitHub).</dd>
-
-<br />
-
-<dt><strong>💬 Como posso te contatar?</strong></dt>
+<dt><strong>💬 Would you like to find me?</strong></dt>
 
 <br />
 
@@ -35,7 +25,8 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://badges.pufler.dev/visits/apfjunior/apfjunior"></a>
 </p>
 -->
-  
+
+[![Blog Badge](https://img.shields.io/badge/Blog-antoninopraxedes-black)](https://antoninopraxedes.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antoninopraxedes)](https://www.linkedin.com/in/antoninopraxedes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](mailto:antonino.praxedes@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](https://t.me/antoninopraxedes)

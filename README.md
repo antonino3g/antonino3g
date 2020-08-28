@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![Blog Badge](https://img.shields.io/badge/Blog-antoninopraxedes-black)](https://antoninopraxedes.wordpress.com)
+:brazil:[![Blog Badge](https://img.shields.io/badge/Blog-antoninopraxedes-black)](https://antoninopraxedes.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antoninopraxedes)](https://www.linkedin.com/in/antoninopraxedes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](mailto:antonino.praxedes@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](https://t.me/antoninopraxedes)

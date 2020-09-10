@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antoninopraxedes)](https://www.linkedin.com/in/antoninopraxedes)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](mailto:antonino.praxedes@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:antonino.praxedes@gmail.com)](https://t.me/antoninopraxedes)
+[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/apfjunior)](https://gist.github.com/apfjunior)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/apfjunior)](https://github.com/apfjunior)

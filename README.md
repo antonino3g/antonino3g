@@ -17,6 +17,30 @@ Here are some ideas to get you started:
 
 -->
 
+Hi there!
+
+My name is Antonino. Currently i'm studying somes technologies with javascript.
+
+### React.js
+- [simple-tracker-covid19](https://covid19website.netlify.com)
+- [github-explore](https://github-explorer-apfjunior.netlify.app/)
+- [create-pdf](https://github.com/apfjunior/create-pdf)
+- [aluraFlix](https://aluraflix-apfjunior.vercel.app/)
+
+
+### Node.js
+- [video-maker](https://github.com/apfjunior/video-maker)
+
+
+### API Rest with Node.js for React.js & React Native  
+- [be-the-hero](https://github.com/apfjunior/be-the-hero)
+
+<br />
+
+🌱 I've some knowledge with Java, C, #C, .Net Core, Python and Shell Script.
+
+<br />
+
 <dt><strong>💬 Would you like to find me?</strong></dt>
 
 <br />

@@ -37,7 +37,7 @@ My name is Antonino. Currently i'm studying somes technologies with javascript.
 
 <br />
 
-🌱 I've some knowledge with Java, C, #C, .Net Core, Python and Shell Script.
+🌱 I've some knowledge with Java, C, Python and Shell Script.
 
 <br />
 

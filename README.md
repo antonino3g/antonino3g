@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi there!
 
-My name is Antonino. Currently i'm studying somes technologies with javascript.
+I'm Antonino. Currently i'm studying somes technologies with javascript.
 
 ### React.js
 - [github-explore](https://github-explorer-apfjunior.netlify.app/)

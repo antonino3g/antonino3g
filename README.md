@@ -22,8 +22,8 @@ Hi there!
 I'm Antonino. Currently i'm studying somes technologies with javascript.
 
 ### React.js
-- [github-explore](https://github-explorer-apfjunior.netlify.app/)
-- [simple-tracker-covid19](https://covid19website.netlify.com)
+- [github-explore](https://github.com/apfjunior/github-explorer)
+- [simple-tracker-covid19](https://github.com/apfjunior/simple-tracker-covid19)
 - [aluraFlix](https://aluraflix-apfjunior.vercel.app/)
 - [create-pdf](https://github.com/apfjunior/create-pdf)
 

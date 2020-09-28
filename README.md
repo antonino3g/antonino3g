@@ -33,7 +33,7 @@ I'm Antonino. Currently i'm studying somes technologies with javascript.
 - [video-maker](https://github.com/apfjunior/video-maker)
 
 
-### API Rest with Node.js for React.js & React Native  
+### API Rest with Node.js for Web (react.js) & Mobile (react native)  
 - [be-the-hero](https://github.com/apfjunior/be-the-hero)
 
 <br />

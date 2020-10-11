@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Antonino. Currently i'm studying somes technologies with javascript.
+## I'm [Antonino](https://apfjunior.github.io). Currently i'm studying somes technologies with javascript.
 
 ### React.js
 - [github-explore](https://github.com/apfjunior/github-explorer)

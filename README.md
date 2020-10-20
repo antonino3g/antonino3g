@@ -20,20 +20,21 @@ Here are some ideas to get you started:
 
 ## I'm [Antonino](https://apfjunior.github.io). Currently i'm studying somes technologies with javascript.
 
+
+### API Rest with Node.js for Web (react.js) & Mobile (react native)  
+- [happy](https://github.com/apfjunior/happy)
+- [be-the-hero](https://github.com/apfjunior/be-the-hero)
+
 ### React.js
 - [github-explore](https://github.com/apfjunior/github-explorer)
 - [simple-tracker-covid19](https://github.com/apfjunior/simple-tracker-covid19)
 - [create-pdf](https://github.com/apfjunior/create-pdf)
 - [aluraFlix](https://github.com/apfjunior/aluraflix)
 
-
-
 ### Node.js
 - [video-maker](https://github.com/apfjunior/video-maker)
 
 
-### API Rest with Node.js for Web (react.js) & Mobile (react native)  
-- [be-the-hero](https://github.com/apfjunior/be-the-hero)
 
 <br />
 

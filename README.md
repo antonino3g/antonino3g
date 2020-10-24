@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ### Node.js
 - [video-maker](https://github.com/apfjunior/video-maker)
 
-
-
 <br />
 
 🌱 I've knowledge with Java, C, Python and Shell Script.

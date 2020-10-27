@@ -38,13 +38,12 @@ Here are some ideas to get you started:
 
 🌱 I've knowledge with Java, C, Python and Shell Script.
 
-<br />
-
 ### Java
 
 - [OS-Works / API REST Spring](https://github.com/apfjunior/os-works)
 - [AgendaLab](https://github.com/apfjunior/AgendaLab)
 
+<br />
 
 <dt><strong>💬 Would you like to find me?</strong></dt>
 

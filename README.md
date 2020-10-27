@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 
 <br />
 
+### Java
+
+- [OS-Works / API REST Spring](https://github.com/apfjunior/os-works)
+- [AgendaLab](https://github.com/apfjunior/AgendaLab)
+
+
 <dt><strong>💬 Would you like to find me?</strong></dt>
 
 <br />

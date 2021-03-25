@@ -11,10 +11,8 @@
 </a>
 
 <br/>
-
-[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=google-chrome)](https://apfjunior.github.io/)
-
-<br/>
 <p align="center">
 <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=dark" />
 </p>
+
+[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=google-chrome)](https://apfjunior.github.io/)

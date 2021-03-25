@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apfjunior&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>
 
+[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-1E90FF?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
+
 <a href="https://linkedin.com/in/antoninopraxedes">
   <img align="left" alt="Antonino's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,5 +23,5 @@
 
 <br />
 
-[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
+
 

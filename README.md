@@ -13,6 +13,8 @@
   <img align="left" alt="Antonino's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<br />
+<br />
 
 <p align="left"> 
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=light" />
@@ -20,7 +22,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&theme=light&hide_langs_below=1" />
   </a>
 </p>
-
-
-
-

@@ -13,10 +13,13 @@
 <br />
 
 <p align="left"> 
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=dark" />
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=light" />
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&theme=light&hide_langs_below=1" />
+</a>
 </p>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br />
 
 [![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
 

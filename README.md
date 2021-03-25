@@ -16,7 +16,7 @@
 <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=dark" />
 </p>
 
-<br />
+<br /><br /><br /><br /><br /><br /><br />
 
 [![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
 

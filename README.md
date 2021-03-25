@@ -10,11 +10,13 @@
   <img align="left" alt="Antonino's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
+<br />
 
 <p align="left"> 
 <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=dark" />
 </p>
 
+<br />
 
+[![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-2648ff?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
 

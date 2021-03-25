@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-1E90FF?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
 
-&nbsp
+
 <a href="https://linkedin.com/in/antoninopraxedes">
   <img align="left" alt="Antonino's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +12,7 @@
 <a href="https://t.me/antoninopraxedes">
   <img align="left" alt="Antonino's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-&nbsp
+
 
 <p align="left"> 
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=apfjunior&theme=light" />

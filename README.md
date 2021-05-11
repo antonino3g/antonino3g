@@ -1,6 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apfjunior&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>
 
+<!--
+
 [![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-1E90FF?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
+
+-->
+
 
 
 <a href="https://linkedin.com/in/antoninopraxedes">

@@ -51,6 +51,7 @@
 <img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/javaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/typeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="SHELL" src="https://img.shields.io/badge/shell-43853D?style=for-the-badge&logo=shell&logoColor=white" />
   
 </div>
 

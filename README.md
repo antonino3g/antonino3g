@@ -49,9 +49,6 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-ffff99?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="center" alt="REACT" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
-<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/javaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="DOCKER" src="https://img.shields.io/badge/docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
 
 ### Contact me
 

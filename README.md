@@ -1,4 +1,3 @@
-:octocat:
 <!--
 [![website](https://img.shields.io/badge/Portfolio-apfjunior.github.io-1E90FF?style=flat-square&logo=firefox)](https://apfjunior.github.io/)
 

@@ -12,9 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apfjunior&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>
 
+
 <p align="left"> 
   <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=apfjunior&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
-  <img height="164px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&layout=compact&hide=PHP,Java&langs_count=8&theme=dark"
+<!--  <img height="164px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&layout=compact&hide=PHP,Java&langs_count=8&theme=dark"
+-->
 </p>
 
 <!--
@@ -26,7 +28,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
 -->
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -21,19 +21,19 @@
 
 <!--
 <div style="display: inline_block">
+<img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
+<img align="center" alt="FLUTTER" src="https://img.shields.io/badge/flutter-0077B5?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-ffffff?style=for-the-badge&logo=java&logoColor=red" />
 <img align="center" alt="NODEJS" src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="FLUTTER" src="https://img.shields.io/badge/flutter-0077B5?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-ffff99?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="center" alt="REACT" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
+<img align="center" alt="REACTJS" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> 
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
+  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> 
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 

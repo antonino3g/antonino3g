@@ -30,7 +30,7 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 -->
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Reactjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
@@ -39,9 +39,8 @@
   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" Logo"/>
   <img align="center" alt="Lari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
-<br/>
-
+                                                                                                                                        
+### Contact me                                                                                                  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoninopraxedes)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antoninopraxedes)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonino.praxedes@gmail.com)

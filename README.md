@@ -14,7 +14,7 @@
 
 
 <p align="left"> 
-  <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=ntonino3&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
+  <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=antonino3&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
 <!--  <img height="164px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&layout=compact&hide=PHP,Java&langs_count=8&theme=dark"
 -->
 </p>

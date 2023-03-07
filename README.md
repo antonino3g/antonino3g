@@ -4,10 +4,11 @@
 
 ### Some facts about me:
 
-🎓 Degree in Analysis and Systems Development - Federal Institute of Roraima
-🤖 I'm RPA developer with a focus on the UIPath tool for automating systems and integrating them with another technologies
+🎓 Degree in Analysis and Systems Development - Federal Institute of Roraima <br />
+🤖 I'm RPA developer with a focus on the UIPath tool for automating systems and integrating them with another technologies <br />
 💡 I like to test other technologies, concepts and paradigms.
 
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonino3g&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>
 

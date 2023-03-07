@@ -4,10 +4,9 @@
 
 ### Some facts about me:
 
-- :mortar_board: Degree in Analysis and Systems Development.
-- :computer: I'm Software developer with focus on Mobile developement.
-- :electron: I'm passionate for Dart & Flutter ecossystem :blue_heart:
-- :bulb: I like to test other technologies, concepts and paradigms.
+🎓 Degree in Analysis and Systems Development - Federal Institute of Roraima
+🤖 I'm RPA developer with a focus on the UIPath tool for automating systems and integrating them with another technologies
+💡 I like to test other technologies, concepts and paradigms.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonino3g&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>

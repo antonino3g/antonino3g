@@ -1,4 +1,4 @@
-### Hi there! 👋
+<!--### Hi there! 👋
 
 ### Welcome to my profile!
 
@@ -9,17 +9,17 @@
 💡 I like to test other technologies, concepts and paradigms.
 
 <br />
-
+<-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonino3g&label=Views&color=blue&style=plastic" alt="apfjunior" /> </p>
 
 
+<!--
 <p align="left"> 
   <img width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=antonino3g&hide=issues&count_private=true&show_icons=true&theme=dark&icon_color=ffffff" />
 <!--  <img height="164px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfjunior&layout=compact&hide=PHP,Java&langs_count=8&theme=dark"
--->
+
 </p>
 
-<!--
 <div style="display: inline_block">
 <img align="center" alt="DART" src="https://img.shields.io/badge/dart-0077B5?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="FLUTTER" src="https://img.shields.io/badge/flutter-0077B5?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -29,7 +29,7 @@
 <img align="center" alt="REACTJS" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 -->
-
+<!--
 <div style="display: inline_block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
@@ -44,4 +44,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoninopraxedes)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antoninopraxedes)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonino.praxedes@gmail.com)
-
+-->

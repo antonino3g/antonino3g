@@ -1,16 +1,25 @@
+### Hi there! 👋
+### Welcome to my profile!
+
+
+![Profile Viewer](https://komarev.com/ghpvc/?username=prxdev05&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/prxdev05.svg?style=social)&nbsp;
+[![GitHub: reskimulud](https://img.shields.io/github/followers/prxdev05?label=follow&style=social)](https://github.com/prxdev05)&nbsp;
+
 <!--### Hi there! 👋
 
 ### Welcome to my profile!
 
 ### Some facts about me:
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;
 🎓 Degree in Analysis and Systems Development - Federal Institute of Roraima <br />
 🤖 I'm RPA developer with a focus on the UIPath tool for automating systems and integrating them with another technologies <br />
 💡 I like to test other technologies, concepts and paradigms.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonino3g&label=Views&color=blue&style=plastic" alt="antonino3g" /> </p>
 <br />
 <-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonino3g&label=Views&color=blue&style=plastic" alt="antonino3g" /> </p>
+
 
 
 <!--

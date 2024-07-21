@@ -2,9 +2,9 @@
 ### Welcome to my profile!
 
 
-![Profile Viewer](https://komarev.com/ghpvc/?username=prxdev05&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/prxdev05.svg?style=social)&nbsp;
-[![GitHub: reskimulud](https://img.shields.io/github/followers/prxdev05?label=follow&style=social)](https://github.com/prxdev05)&nbsp;
+![Profile Viewer](https://komarev.com/ghpvc/?username=antonino3g&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/antonino3g.svg?style=social)&nbsp;
+[![GitHub: reskimulud](https://img.shields.io/github/followers/antonino3g?label=follow&style=social)](https://github.com/antonino3g)&nbsp;
 
 <!--### Hi there! 👋
 

@@ -42,7 +42,6 @@ void main() {
     course: "Systems Analysis and Development",
     university: "Federal Institute of Roraima",
     job: "Mobile Developer",
-    company: "iFood", // Add company if missing
     focus: "Flutter development and Java Spring Boot",
     pronouns: "He/Him",
   );

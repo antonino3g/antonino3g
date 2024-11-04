@@ -12,7 +12,6 @@ class Me {
   String course;
   String university;
   String job;
-  String company;
   String focus;
   final String pronouns;
 
@@ -21,7 +20,6 @@ class Me {
     required this.course,
     required this.university,
     required this.job,
-    required this.company,
     required this.focus,
     required this.pronouns,
   });

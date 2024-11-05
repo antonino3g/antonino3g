@@ -66,7 +66,7 @@ void main() {
 ## My stats 📈
 <div align=left>
   <a href="https://github.com/antonino3g"><img src="http://github-readme-streak-stats.herokuapp.com?user=antonino3g&theme=dracula&hide_border=true"/></a>
-  <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=ronaldocoding&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
+  <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=antonino3g&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
   <!-- <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonino3g&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a> -->
 </div>
 

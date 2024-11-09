@@ -58,16 +58,16 @@ void main() {
 
 ## My top open source projects 🚀
 <p align="left">
-    <a href="https://github.com/antonino3g/video-maker"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=video-maker&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="video-maker"></a>
-   <a href="https://github.com/antonino3g/frases-do-dia"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=frases-do-dia&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="frases-do-dia"></a>
-   <a href="https://github.com/antonino3g/signature-app"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=signature-app&theme=dracula&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="signature-app"></a>
+    <a href="https://github.com/antonino3g/video-maker"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=video-maker&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="video-maker"></a>
+   <a href="https://github.com/antonino3g/frases-do-dia"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=frases-do-dia&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="frases-do-dia"></a>
+   <a href="https://github.com/antonino3g/signature-app"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=signature-app&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="signature-app"></a>
    
 </p>
 
 ## My stats 📈
 <div align=left>
-  <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=antonino3g&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
-  <a href="https://github.com/antonino3g"><img src="http://github-readme-streak-stats.herokuapp.com?user=antonino3g&theme=dracula&hide_border=true"/></a>
+  <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=antonino3g&show_icons=true&theme=merko&include_all_commits=true&count_private=false&hide_border=true"/></a>
+  <a href="https://github.com/antonino3g"><img src="http://github-readme-streak-stats.herokuapp.com?user=antonino3g&theme=merko&hide_border=true"/></a>
   <!-- <a href="https://github.com/antonino3g"><img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonino3g&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a> -->
 </div>
 

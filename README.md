@@ -104,5 +104,4 @@ void main() {
 ### Contact me                                                                                                  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoninopraxedes)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antoninopraxedes)
-[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonino.praxedes@gmail.com)
 -->

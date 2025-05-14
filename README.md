@@ -26,6 +26,12 @@
   <a href="https://developer.android.com/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
+  <a href="https://www.oracle.com/java/">
+  <img src="https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logoColor=white" alt="Java">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  </a>
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </a>
@@ -43,12 +49,6 @@
   </a>
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://www.oracle.com/java/">
-  <img src="https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logoColor=white" alt="Java">
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">

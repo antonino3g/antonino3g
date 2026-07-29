@@ -1,11 +1,12 @@
-<!-- 
+
+<!--
 ## My top open source projects 🚀
 <p align="left">
     <a href="https://github.com/antonino3g/video-maker"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=video-maker&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="video-maker"></a>
    <a href="https://github.com/antonino3g/frases-do-dia"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=frases-do-dia&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="frases-do-dia"></a>
    <a href="https://github.com/antonino3g/signature-app"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=antonino3g&repo=signature-app&theme=merko&bg_color=272A36&title_color=FE6E96&icon_color=F8D866&hide_border=false&show_icons=true" alt="signature-app"></a>
 </p>
---> 
+
 
 <!--
 <div style="display: inline_block">
